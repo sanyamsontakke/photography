@@ -1,0 +1,411 @@
+
+#HHH{
+
+  display:inline;
+  justify-content:space-between;
+  align-items:center;
+  padding: 10px 5%;
+  font-weight: bold;
+  text-decoration: none;
+  text-underline-position: below;
+  text-decoration-color: crimson;
+}
+#a1{
+text-decoration: none;
+font-size: 17px;
+color:white;
+
+
+}
+
+#ooo{
+  border-radius: 70px;
+  
+}
+a:hover{
+  background-color: greenyellow;
+  background-position:bottom;
+}
+SPAN{
+  
+  font-family: 'Dancing Script', cursive;
+}
+nav li{
+    display: inline;
+    list-style: none;
+    padding: 0px 5px;
+    text-decoration: none;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-style:bold;
+   box-sizing: border-box;
+}
+#m3,h1{
+  padding-right: 50px;
+  font-family: 'Dancing Script', cursive;
+  color: white;
+
+  
+
+  
+
+}
+.fa-solid-fa-star{
+  color: red;
+
+}
+#cl{
+  color: white;
+}
+#tt{
+  color: rgb(255, 255, 255);
+  margin-top: 100px;
+  padding-left: 30px;
+
+}
+.banner-2{
+  width: 100%;
+  height: 100vh;
+  background-image: url(istockphoto-1341437653-170667a.jpg);
+  background-size:cover;
+  background-position: center;
+}
+.banner,col{
+  width: 100%;
+  height: 130vh;
+  background-image: url(istockphoto-1341437690-170667a.jpg);
+  background-size:cover;
+  background-position: center;
+
+
+}
+#camback{
+  height: 560px;
+  padding-top: 20px;
+}
+#navbar-example2,p{
+  text-decoration: white;
+  text-decoration-color: white;
+}
+
+
+.carouselExampleSlidesOnly{
+height: 60px;
+}
+#booking{
+  padding-top: 60px;
+}
+#btdgr{
+border-radius: 100px;
+
+}
+.banner-3{
+  width: 100%;
+  height: 100vh;
+  background-image: url(HD-wallpaper-dark-red-pattern-red-aesthetic.jpg);
+  background-size: cover;
+  background-position: center;
+  color:rgb(133, 105, 255);
+}
+#warningg{
+  width: 102%;
+}
+.banner-4{
+  width: 100%;
+  height: 170vh;
+  background-image:url(gettyimages-472538711-640x640.jpg);
+  background-size: cover;
+  background-position:center ;
+  
+}
+#crd{
+  padding-top: 20px;
+  text-align: center;
+  justify-content: center;
+  
+}
+#phto{
+  padding-top: 140px;
+
+}
+#hed,h1{
+  margin-left: 150px;
+  
+}
+.banner-5{
+
+  width: 100%;
+  height: 100vh;
+  background-image: url(hSy6bGR.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#con5-p{
+  color: black;
+
+ 
+}
+#mr1,h4{
+  margin-left:100px;
+}
+#mr2,h4{
+  margin-right: 500px;
+}
+.banner-6{
+  background-image: url(istockphoto-1449505947-170667a.jpg);
+  width: 100%;
+  height: 250vh;
+  background-position: center;
+  background-size: cover;
+}
+.banner-7{
+  background-image: url(flower-729512__340.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 150vh;
+  width: 100%;
+}
+.banner-8{ 
+  background-image: url(2700.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 150vh;
+  width: 100%;
+  
+}
+.banner-9{
+  background-image: url(md.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 30vh;
+  width: 100%;
+}
+#ed{
+  color: white;
+  border: 5px;
+  border-width: 10px;
+  border-style: dashed;
+}
+.banner-10{
+background-image:url(photo-1620641788421-7a1c342ea42e.jpg);
+background-size: cover;
+background-position: center;
+height: 150vh;
+width: 100%;
+}
+
+
+#logoo{
+  font-family: 'Bangers', cursive;
+  font-size: 30px;
+}
+#LOGOO2{
+  font-family: 'Bangers', cursive;
+font-size: 30px;
+}
+.banner-77{
+  background-image: url(istockphoto-1449505947-170667a.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 14vh;
+}
+#sapan-ss4{
+  font-family: 'Dancing Script', cursive;
+  padding-top: 80px;
+
+  
+}
+#pad{
+  padding-top: 15px;
+}
+.banner-12{
+  background-image:url(istockphoto-1341437690-170667a.jpg);
+background-size: cover;
+background-position: center;
+height: 120vh;
+width: 100%;
+}
+#tag{
+  color: white;
+}
+
+
+
+
+
+
+
+
+#CONTACT{
+  background: #000000;
+}
+
+footer{
+  
+  
+  
+  background: linear-gradient(to right,#00093c, #2d0b00);
+  color: #fff;
+  
+  border-top-left-radius: 0px;
+  font-size: 13px;
+  line-height: 20px;
+}
+#new1{
+  
+  
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+
+}
+.col{
+  flex-basis: 25%;
+  padding: 10px;
+}
+.col:nth-child(2), .col:nth-child(3){
+flex-basis: 15%;
+}
+.logo44{
+  width: 150px;
+  height: 100px;
+  margin-bottom: 30px;
+}
+#new3,h3{
+  width: 150px;
+
+  position: relative;
+}
+#eM00{
+  width: fit-content;
+  border-bottom: 1px solid rgb(220, 211, 211);
+  margin: 20px 0;
+}
+
+
+#addresscolor{
+  color: pink;
+  font-size: 15px;
+}
+
+
+#new4,ul,li{
+  list-style: none;
+  margin-bottom: 12px;
+}
+#new4,ul, li, a{
+  text-decoration: none;
+  color: #fff;
+
+}
+#frm{
+  padding-bottom: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #ccc;
+  
+  font-size: 20px;
+
+}
+#frm-fa{
+  font-size: 18px;
+  margin-right: 10px;
+  width: 15px;
+}
+#frm input{
+
+background: transparent;
+color:#ccc;
+border: 5;
+outline: none;
+}
+#frm button{
+  background: transparent;
+  border: 0;
+  outline: none;
+  cursor: pointer;
+  font-size: 30px;
+  color: yellow;
+}
+#frm button .fa-{
+  font-size: 16px;
+  color: #ccc;
+}
+.social-icons .fa-brands{
+  width: 50px;
+  height: 50px;
+  border-radius: 40%;
+  text-align: center;
+  line-height: 50px;
+  font-size: 30px;
+  color: #000;
+  background: #fff;  
+  margin-right: 15px;
+  cursor: pointer;
+}
+#wtsp{
+  background-color: rgb(22, 216, 18);
+  color: white;
+}
+#insta{
+  background-color: rgb(240, 68, 68);
+  color: white;
+}
+#twtr{
+  background-color: rgb(55, 175, 222);
+  color: white;
+}
+#fcbk{
+  background-color: rgb(72, 72, 248);
+  color: white;
+}
+
+hr{
+
+  border: 0;
+  border-bottom: 8px solid #ccc;
+  margin: 20px auto;
+}
+.copyright{
+  text-align: center;
+
+}
+.underline{
+  width: 100%;
+  height: 7px;
+  background: #767676;
+  border-radius: 3px;
+  position: absolute;
+  top: 30px;
+  left: 0;
+  overflow: hidden;
+
+
+}
+.underline span{
+  width: 15px;
+  height: 100%;
+  background: #fff;
+  border-radius: 3px;
+  position: absolute;
+  top: 0;
+  left: 90px;
+  animation: moving 2s linear infinite;
+
+}
+#again{
+  font-family: cursive;
+  font-size: 19px;
+}
+@keyframes moving{
+  0%{
+      left: -20px;
+
+  }
+  100%{
+      left: 400%px;
+  }
+}
+
